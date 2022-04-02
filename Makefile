@@ -1,5 +1,5 @@
 dev:
-	pipenv install --dev
+	python main.py
 
 pipenv:
 	pip install pipenv
